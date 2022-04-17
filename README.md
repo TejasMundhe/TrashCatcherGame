@@ -1,1 +1,1 @@
-# TrashCatcherGame
+# Trash Catcher Game
